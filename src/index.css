@@ -7,6 +7,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+#appContainer {
+  height: 100%;
+  width: 100%;
+}
+
 .App {
   position: absolute;
   top: 20%;
